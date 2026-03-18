@@ -1,0 +1,17 @@
+body {
+    background-color: #221fb1;
+    color: #f0eaea;
+    font-family: 'Arial', sans-
+    line-height: 2.5;
+
+}
+button {
+    background-color: rgb(12, 240, 164);
+    color: rgb(240, 9, 9);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+
+}
